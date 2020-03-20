@@ -7,8 +7,6 @@ Emergency Department.
 
 This face shield is based on [this original design with minor modifications](https://www.thingiverse.com/thing:4222407)
 
-To purchase, go to https://store.glia.org
-
 # Bill of Materials
 ## Printed parts
 * 1 head piece (headpiece.stl)
